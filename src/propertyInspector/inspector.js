@@ -2,7 +2,7 @@
 // / <reference path="../libs/js/utils.js" />
 import { FormUtils, localizeUI } from './utils.js';
 
-const NUM_INSTANCES = 4;
+const NUM_INSTANCES = 6;
 const forms = new Map(); // common form and per OBS instance forms
 let globalSettings = {};
 
